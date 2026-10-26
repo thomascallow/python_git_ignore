@@ -1,5 +1,7 @@
-#This is as complete a .gitignore as you have made so far, you can include this in all your py projects
-#that you publish to GitHub to reduce bloat
+"""
+This is as complete a .gitignore as you have made so far, you can include this in all your py projects
+that you publish to GitHub to reduce bloat.
+"""
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
